@@ -37,12 +37,7 @@
 [플러터]
 > 전체적인 코드를 쓰는 데에 활용.
 
-1. Layout tutorial
-
-   [file](layout_tutorial.dart) , [page](https://flutter.dev/docs/development/ui/layout/tutorial)
-
-
-2. 참고 자료
+1. 참고 자료
 * [flutter.dev](flutter.dev) : flutter 공식 사이트
 * [dart.dev](dart.dev) : dart 공식 사이트
 * [draw.io](draw.io) : flowcart 그리는 사이트
