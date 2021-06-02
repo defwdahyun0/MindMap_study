@@ -50,6 +50,15 @@
 * [Minimal client-server example for Flutter and Node.js](https://levelup.gitconnected.com/minimal-client-server-example-for-flutter-and-node-js-3e1b376f1093): node.js - flutter 간 간단하게 통신하기
 * [http 데이터를 불러올 수 없을 때 – Insecure HTTP is not allowed by platform](https://reasley.com/?p=4139) : 위 링크를 따라하면 안드로이드 9.0이상 버전의 보안패치로 인하여 Insecure HTTP 에러가 발생. 이를 해결하는 방법 2가지에 대해 소개하고 있음.
 
+<br/>
+
+* [Flutter ) StatefulWidget 자세히 살펴보기](https://zeddios.tistory.com/1115?category=886318)
+* [[Flutter] 플러터 버튼 종류 (TextButton / OutlinedButton / ElevatedButton / Icon button)](https://seizemymoment.tistory.com/44)
+* [[Flutter] AppBar?! AppBar의 "모든 것"](https://security-nanglam.tistory.com/481)
+* [[Flutter] Bottom App Bars 의 "모든 것"](https://security-nanglam.tistory.com/483)
+* [[Flutter] AppBar에 Title, leading icon, actions icon 붙이기](https://security-nanglam.tistory.com/483)
+
+
 ### node.js
 
 ### crawling
